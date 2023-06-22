@@ -1,9 +1,13 @@
 <h2 align="left">Olá 👋! Seja bem vindo ao meu perfil!!</h2>
 
+###
+
 Sobre mim:
 - Oi, eu sou João Victor xD
 - Sou desenvolvedor fullstack junior
 - Atualmente sou estudante na [Trybe](https://www.betrybe.com/)
+
+###
 
 
 <div align="center">
