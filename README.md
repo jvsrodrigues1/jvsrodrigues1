@@ -25,10 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jvsrodrigues1/jvsrodrigues1/output/snake.svg" alt="Snake animation" />
-
-###
+##
+ 
+  ![Snake animation](https://github.com/jvsrodrigues1/jvsrodrigues1/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
