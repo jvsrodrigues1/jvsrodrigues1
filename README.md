@@ -5,7 +5,8 @@
 Sobre mim:
 - Oi, eu sou João Victor, sou técnico em informática e apaixonado por tecnologia!
 - Sou desenvolvedor fullstack junior
-- Atualmente sou estudante na [Trybe](https://www.betrybe.com/)
+- Sou formado na [Trybe](https://www.betrybe.com/)
+- Atualmente sou estagiário na NTN-Systems
 
 ###
 
